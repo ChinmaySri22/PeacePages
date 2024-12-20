@@ -1,4 +1,8 @@
-# PeacePages: Your AI-Powered Daily Diary  
+# PeacePages: Your AI-Powered Daily Diary
+![image](https://github.com/user-attachments/assets/e4e9b52a-ca1e-4889-aa3e-2546222731d7)
+![image](https://github.com/user-attachments/assets/7a5839d1-6a7b-4904-a584-0716d7f5a0b6)
+![image](https://github.com/user-attachments/assets/3aca7fa7-2400-4278-8ac0-04490e8ddc2c)
+
 
 ## Overview  
 **PeacePages** is an AI-powered personal diary chatbot designed to merge journaling and therapy into a user-friendly, interactive platform. The chatbot provides judgment-free emotional support, generates concise conversation summaries, and offers therapeutic and casual interaction modes.  
